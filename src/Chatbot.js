@@ -39,6 +39,7 @@ const Chatbot = () => {
     <div className="chatbot-wrapper">
       <div className="chatbot-header">
         <h2>Lets learn Git</h2>
+        <h3>First change</h3>
       </div>
       <div className="chat-window">
         <div className="chat-messages">
